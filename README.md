@@ -17,6 +17,8 @@ This project utilizes the classic **Telco Customer Churn** dataset (available vi
 * **Services Subscribed:** Internet, Phone, Streaming TV/Movies, Tech Support.
 * **Target Variable:** `Churn` (Yes/No)
 
+* **Link:** https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
+
 ## Key Features & Workflow
 1. **Data Cleaning & Preprocessing:** 
    * Handled hidden null values and corrected data type mismatches (e.g., converting `TotalCharges` to numeric).
